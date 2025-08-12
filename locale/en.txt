@@ -5,7 +5,6 @@
 ### PDF
 PopupPDFBehaviour_8A460CAC_9D64_7E21_41D4_0006931C3FEA.url = files/Myynniss%C3%A4%20vakiintunut%20rakennustarvike-%20ja%20puutarhatuotteiden%20erikoisliike%20Viitasaarella_en.pdf
 PopupPDFBehaviour_BF86F786_9D6B_EAE1_41DD_9DA4E85705D0.url = files/Myynniss%C3%A4%20vakiintunut%20rakennustarvike-%20ja%20puutarhatuotteiden%20erikoisliike%20Viitasaarella_en.pdf
-PopupPDFBehaviour_3C95E2F5_046B_FEFF_41AB_5E26096908CF.url = files/Karstula%20soi%20pdf%202025_en.pdf
 
 ### URL
 LinkBehaviour_BCED6A8B_9D64_DAE7_41D1_2FBD59DD8BD4.source = https://rautakauppamehto.fi
@@ -22,10 +21,10 @@ HotspotMapOverlayArea_6DE6F07A_5051_052F_41DC_B5105B13B162.toolTip = Avaa tietok
 ### Floorplan
 
 ### Image
-imlevel_BF60E2E4_9D64_6A21_41D6_16979938904B.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_0.webp
-imlevel_BF60C2E5_9D64_6A23_41D3_9D3BAC35829B.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_1.webp
-imlevel_BF6032E5_9D64_6A23_41C8_C86A7671EF00.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_2.webp
-imlevel_BF6022E5_9D64_6A23_41DF_A9DB07D084F7.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_3.webp
+imlevel_BA1BE938_9D3C_2621_41D6_1DC10E514651.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_0.webp
+imlevel_BA1B8938_9D3C_2621_41D1_FBEBB4D500C6.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_1.webp
+imlevel_BA1B9938_9D3C_2621_41D8_2450EAC0811B.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_2.webp
+imlevel_BA1BB938_9D3C_2621_41C0_73D396FCCB9C.url = media/map_6CA3E3B1_5053_0B3C_41AD_F031D345D357_en_3.webp
 
 ### Title
 panorama_EB177901_FBA9_4B17_41E2_43D0E347CFE2.label = 1
@@ -34,7 +33,7 @@ panorama_EB171A08_FBA9_4915_41D2_7043541D2A94.label = 3
 panorama_EB089E39_FBA9_C977_41B3_265EFF98016A.label = 4
 panorama_EB0C6F29_FBA9_C717_41E9_19EFCE563232.label = 5
 panorama_EB0DAF50_FBA9_C735_41C0_FE4FC366BBF7.label = 6
-map_6CA3E3B1_5053_0B3C_41AD_F031D345D357.label = Rautakauppa mehto ideaboard
+map_6CA3E3B1_5053_0B3C_41AD_F031D345D357.label = Rautakauppa mehto
 panorama_EB0ADBB3_FBA9_4F7B_41E7_BA9311280F32.label = ulko 5
 panorama_EB47A467_FBAB_591B_41EB_65C4AD0B48DA.label = ulko1
 panorama_EB14DC8F_FBA8_C92B_41D9_F24053B9A2CE.label = ulko2
@@ -48,38 +47,37 @@ panorama_EB17EAA1_FBA9_4917_41ED_931CA0ED1137.label = varasto 2
 ### Button
 Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
 Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Bathrooms
-Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
 Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.pressedLabel = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Bedrooms
-Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Bedrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Bedrooms
-Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
 Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7.label = Exterior Area
-Button_3AF9062A_0469_5915_419E_008436664326.label = Kiinnostuitko? Ota yhteyttä!
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
 Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Muuta
 Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Piha-alue
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Piha-alue
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
-Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Reception
 Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.pressedLabel = Sisätilat
 Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.label = Sisätilat
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Tietoa
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.label = Tietoa
 
 ### Image
+Image_B81A8C38_9D25_DE21_41CE_1FA2D248630C.url = skin/Image_B81A8C38_9D25_DE21_41CE_1FA2D248630C_en.png
 Image_D295325C_FB99_592D_41C3_08EF6FAA689F.url = skin/Image_D295325C_FB99_592D_41C3_08EF6FAA689F_en.png
 Image_DC113FF0_FB99_C6F5_41ED_DE40B09ED30F.url = skin/Image_DC113FF0_FB99_C6F5_41ED_DE40B09ED30F_en.png
 Image_DC5D164E_FB9F_592D_41DE_0F33C976BDAB.url = skin/Image_DC5D164E_FB9F_592D_41DE_0F33C976BDAB_en.png
 
 ### Multiline Text
-HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
-HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Montserrat';">Rautakauppa Mehto Oy</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://rautakauppamehto.fi" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:8px;font-family:'Montserrat';">https://rautakauppamehto.fi</SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Montserrat';">rautakauppamehto@rautakauppamehto.fi</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Montserrat';">045 326 2400</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Montserrat';">Kauppakaari 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Montserrat';">44500 Viitasaari</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
 HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:10.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">Rautakauppa Mehto Oy</SPAN></SPAN></DIV></div>
-HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.5600000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 
 ## Tour
 
